@@ -1,0 +1,6 @@
+## Index of source code examples:
+
+\Convert in batch from xls to csv with spreadsheet sdk
+\Convert in batch to xls with spreadsheet sdk
+\Convert in batch from xls to csv with spreadsheet sdk\Input Files
+\Convert in batch to xls with spreadsheet sdk\Input Files
